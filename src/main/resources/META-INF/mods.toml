@@ -7,13 +7,13 @@ showAsResourcePack=false
 [[mods]]
     modId="effortlessbuilding"
     version="${file.jarVersion}"
-    displayName="Effortless Building"
-    displayURL="https://minecraft.curseforge.com/projects/effortless-building"
+    displayName="Effortless Building Patched"
+    displayURL="https://www.curseforge.com/minecraft/mc-mods/eb-patched"
     logoFile="logo.png"
     credits=""
-    authors="Requios"
+    authors="Requios, Jarvabb"
     description='''
-Makes building easier by providing tools like mirrors, arrays, build modes and a block randomizer. For survival and creative mode.
+Effortless Building Patched to work with servers again.
     '''
 
 [[dependencies.effortlessbuilding]]
